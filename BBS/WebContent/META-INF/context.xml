@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+   <Resource 
+		name="jdbc/newspaper"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver"                
+		loginTimeout="10"
+		maxWait="5000"
+		username="root"
+		password="dlrlFgh!@#$1234"
+		testOnBorrow="true"
+		url="jdbc:mysql://localhost:3306/project?useSSL=false"
+    />
+</Context>
